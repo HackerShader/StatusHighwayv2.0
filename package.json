@@ -1,0 +1,19 @@
+{
+  "name": "statushighway",
+  "version": "DEV 0.1.7",
+  "description": "StatusHighway for 2y2c",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HackerShader",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "dotenv": "^10.0.0",
+    "fs": "0.0.1-security",
+    "minecraft-server-util": "^3.5.2",
+    "moment": "^2.29.1",
+    "superagent": "^6.1.0"
+  }
+}
