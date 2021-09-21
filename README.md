@@ -28,3 +28,4 @@ If you copy this source, you need to change your token in config.json
 
 "superagent": "^6.1.0"
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerShader&show_icons=true&theme=cobalt)
