@@ -10,7 +10,9 @@ If you copy this source, you need to change your token in config.json
 # How to change token?
 
 1.access config.json
+
 2.looking token array
+
 3.paste your token
 
 # What's module you use?
