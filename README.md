@@ -16,5 +16,15 @@ If you copy this source, you need to change your token in config.json
 3.paste your token
 
 # What's module you use?
-discord.js-selfbot
+"discord.js-selfbot": "^12.0.2",
+
+"dotenv": "^10.0.0",
+
+"fs": "0.0.1-security",
+
+"minecraft-server-util": "^3.5.2",
+
+"moment": "^2.29.1",
+
+"superagent": "^6.1.0"
 
