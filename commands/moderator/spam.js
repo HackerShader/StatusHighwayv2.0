@@ -3,8 +3,8 @@ module.exports = {
     execute(bot, msg, args) {
         if(msg.author.id === `485419430885457930`) {
             setInterval(() => {
-                msg.channel.send('<@866141695716753419> gay')
+                msg.channel.send('')
             }, 1500);
-        } else return msg.reply('gay')
+        } else return msg.reply('err')
     }
 }
