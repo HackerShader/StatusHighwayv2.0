@@ -52,7 +52,7 @@ fs.readdirSync('./commands')
 				msg.channel.stopTyping();
 			} catch (error) {
 				console.error(error);
-				msg.reply('Đã có lỗi xảy ra, hãy report cho thằng @hackershader#5959 để đc dutdeet');
+				msg.reply('Đã có lỗi xảy ra');
 				msg.channel.stopTyping()
 			}
 		}, 50);
